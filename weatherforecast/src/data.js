@@ -1,30 +1,29 @@
 
-
 const data = [
     {
         img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/day.svg",
         condition: "Sunny",
-        time: "day"
+        time: "Day"
     },
     {
         img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/night.svg",
         condition: "Clear",
-        time: "day"
+        time: "Day"
     },
     {
         img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/stormy.svg",
         condition: "Clear",
-        time: "day"
+        time: "Day"
     },
     {
         img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/day.svg",
         condition: "Partly Sunny",
-        time: "night"
+        time: "Night"
     },
     {
         img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/day.svg",
         condition: "Clear",
-        time: "night"
+        time: "Night"
     },
 ]
 
